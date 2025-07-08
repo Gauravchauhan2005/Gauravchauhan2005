@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gauravchauhan2005
-- 👀 I’m interested in c++ and football
-- 🌱 I’m currently learning c++ , dsa , oops .
-- 💞️ I’m looking to collaborate on opps related problem and their solution
+- 👀 I’m interested in c++ and python
+- 🌱 I’m currently learning  AI amd ML .
+- 💞️ I’m looking to collaborate on ML related problem and their solution
 - 📫 How to reach me www.linkedin.com/in/gaurav-chauhan-850b1432b
 - 😄 Pronouns: he/him
 <!---
