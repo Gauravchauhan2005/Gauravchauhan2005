@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauravchauhan2005
 - 👀 I’m interested in c++ and python
-- 🌱 I’m currently learning  AI amd ML .
+- 🌱 I’m currently learning  AI and ML .
 - 💞️ I’m looking to collaborate on ML related problem and their solution
 - 📫 How to reach me www.linkedin.com/in/gaurav-chauhan-850b1432b
 - 😄 Pronouns: he/him
